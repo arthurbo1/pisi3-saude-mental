@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 __pycache__
 *.html
 .history
-=======
-__pycache__
-*.html
-.history
->>>>>>> 712c3c5 (commit inicial - Data Profiling e gráficos iniciais)
 .venv
